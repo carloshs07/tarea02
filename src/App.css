@@ -40,4 +40,20 @@ button:hover {
 }
 
 
+.navbar {
+  background-color: #5b8798;
+  padding: 1rem;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 100%;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+.navbar a:hover {
+  text-decoration: underline;
+}
 
